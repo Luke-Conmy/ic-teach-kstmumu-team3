@@ -1,0 +1,7 @@
+# ignore data files so we don't crash github
+*.pkl
+data/
+
+# ignore jupyter stuff
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
